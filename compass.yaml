@@ -1,5 +1,5 @@
 name: magnetic-api
-id: 'ari:cloud:compass:96586c04-fe6d-48f7-9970-f20153835491:component/a7192ffa-a083-465d-ae78-219ac5c7e340/7ba6453b-6a29-467b-8d76-5aaf229a72fe'
+id: 'ari:cloud:compass:09a69492-ff6a-46d0-ac4f-29a5a7939e72:component/42d37429-87d8-4348-8d58-84da74ca61b2/98d92b23-5077-41ec-86c4-d8ff5ba66580'
 description: null
 configVersion: 1
 typeId: SERVICE
@@ -9,7 +9,7 @@ fields:
 links:
   - name: null
     type: REPOSITORY
-    url: 'https://github.com/AtlassianWaz/magnetic-api'
+    url: 'https://github.com/WSJ-Enterprise/magnetic-api'
 relationships: {}
 labels:
   - 'language:python'
