@@ -3,7 +3,8 @@ id: 'ari:cloud:compass:09a69492-ff6a-46d0-ac4f-29a5a7939e72:component/42d37429-8
 description: null
 configVersion: 1
 typeId: SERVICE
-ownerId: null
+ownerId: 'ari:cloud:identity::team/9d0dc70d-6da1-4680-81d5-32f250363ce9'
+
 fields:
   tier: 4
 links:
