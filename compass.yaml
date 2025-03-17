@@ -11,6 +11,9 @@ links:
   - name: null
     type: REPOSITORY
     url: 'https://github.com/WSJ-Enterprise/magnetic-api'
+  - name: '#magnetic'
+    type: CHAT_CHANNEL
+    url: 'https://atlassianwaz.slack.com/archives/C08HJ427ZNK'
 relationships: {}
 labels:
   - 'language:python'
