@@ -22,13 +22,13 @@ labels:
 customFields:
   - name: Data encrypted at rest
     type: text
-    value: null
+    value: yes
   - name: Data encrypted in transit
     type: text
-    value: null
+    value: yes
   - name: Last security review
     type: text
-    value: null
+    value: 11/11/2024
 
 # Learn more about formatting compass.yml:
 # https://go.atlassian.com/compass-yml-format
