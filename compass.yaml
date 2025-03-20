@@ -28,7 +28,7 @@ customFields:
     value: yes
   - name: Last security review
     type: text
-    value: 11/12/2024
+    value: 12/12/2024
 
 # Learn more about formatting compass.yml:
 # https://go.atlassian.com/compass-yml-format
