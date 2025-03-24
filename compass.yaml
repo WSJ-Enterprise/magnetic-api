@@ -1,6 +1,6 @@
 name: magnetic-api
 id: 'ari:cloud:compass:09a69492-ff6a-46d0-ac4f-29a5a7939e72:component/42d37429-87d8-4348-8d58-84da74ca61b2/98d92b23-5077-41ec-86c4-d8ff5ba66580'
-description: null
+description: This is the magnetic-api component
 configVersion: 1
 typeId: SERVICE
 ownerId: 'ari:cloud:identity::team/9d0dc70d-6da1-4680-81d5-32f250363ce9'
